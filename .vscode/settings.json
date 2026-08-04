@@ -1,0 +1,8 @@
+{
+    "[plaintext]": {
+        "editor.wrappingIndent": "none",
+        "editor.autoIndent": "none",
+        "editor.wordWrap": "bounded"
+    },
+    "claudeCode.useTerminal": true
+}
