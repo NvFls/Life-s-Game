@@ -1,9 +1,4 @@
----
-name: tools-reference
-description: 对齐工具 measure.py / strwidth.py 的用法、已知问题和使用限制
-metadata:
-  type: reference
----
+> 摘要：measure.py/strwidth.py终端宽度测量工具用法与标记语法、已知问题（heredoc吃反斜杠、标记丢失）、当前不可靠暂停使用
 
 ## 工具位置
 

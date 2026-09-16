@@ -1,9 +1,4 @@
----
-name: project-reference
-description: 项目结构、文件命名规范、仓库操作指南
-metadata:
-  type: reference
----
+> 摘要：仓库结构（情节/设定集合分类）、文件命名规范（.txt UTF-8）、仓库操作指南（纯文本无构建、git版本控制、保留缩进风格）
 
 ## 仓库结构
 
